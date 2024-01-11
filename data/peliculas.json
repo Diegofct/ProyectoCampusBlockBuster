@@ -1,0 +1,35 @@
+[
+  {
+    "Id": "01",
+    "Nombre pelicula": "rambo",
+    "Duracion": "02:00",
+    "Sinopsis": "rambo lucha por la justicia",
+    "Generos": [
+      [
+        {
+          "Id": "G01",
+          "Tipo de genero": "accion"
+        }
+      ]
+    ],
+    "Actores": [
+      [
+        {
+          "Id": "A01",
+          "Nombre Actor": "silvester stallone",
+          "Rol": "protagonista"
+        }
+      ]
+    ],
+    "Formato": [
+      [
+        {
+          "Id": "F01",
+          "Nombre": "dvd",
+          "Nro de copias": 2,
+          "Valor del prestamo": 5000.0
+        }
+      ]
+    ]
+  }
+]
